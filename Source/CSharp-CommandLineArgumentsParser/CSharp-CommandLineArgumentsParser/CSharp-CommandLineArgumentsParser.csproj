@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+	<RepositoryUrl>https://github.com/CleverCodeCravers/CSharp-CommandLineArgumentsParser</RepositoryUrl>
+    <RootNamespace>CSharp_CommandLineArgumentsParser</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
