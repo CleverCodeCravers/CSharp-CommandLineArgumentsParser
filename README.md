@@ -10,3 +10,9 @@ Feature rich library to parse command line arguments in C# Applications
 # Pushing the package
 
 `dotnet nuget push "PATH TO NUPKG" --api-key YOUR_PAT --source "github"`
+
+# Where is my nuget-config file?
+
+```
+C:\Users\USERNAME\AppData\Roaming\NuGet\NuGet.Config
+```
