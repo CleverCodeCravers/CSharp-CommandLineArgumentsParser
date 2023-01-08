@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>CommandLineArgumentsParser</id>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <title>CommandLineArgumentsParser</title>
     <authors>CleverCodeCravers</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <!-- <icon>icon.png</icon> -->
+     <icon>Resources/command-line.png</icon> 
     <projectUrl>https://github.com/CleverCodeCravers/CSharp-CommandLineArgumentsParser</projectUrl>
     <description>Feature rich library to parse command line arguments in C# Applications</description>
     <copyright>CleverCodeCravers</copyright>

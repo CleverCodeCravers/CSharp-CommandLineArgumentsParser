@@ -1,5 +1,4 @@
-﻿namespace CSharp_CommandLineArgumentsParser;
-
+﻿namespace CommandLineArgumentsParser;
 public class BoolCommandLineOption : IBoolCommandLineOption
 {
     private bool _value = false;

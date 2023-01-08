@@ -1,4 +1,4 @@
-﻿namespace CSharp_CommandLineArgumentsParser;
+﻿namespace CommandLineArgumentsParser;
 
 public class Parser {
     private readonly ICommandLineOption[] options;

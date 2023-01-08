@@ -1,4 +1,4 @@
-﻿namespace CSharp_CommandLineArgumentsParser;
+﻿namespace CommandLineArgumentsParser;
 
 public class Result<T>
 {

@@ -1,4 +1,4 @@
-﻿namespace CSharp_CommandLineArgumentsParser;
+﻿namespace CommandLineArgumentsParser;
 
 public class Int32CommandLineOption : WithValueCommandLineOption<int>
 {
