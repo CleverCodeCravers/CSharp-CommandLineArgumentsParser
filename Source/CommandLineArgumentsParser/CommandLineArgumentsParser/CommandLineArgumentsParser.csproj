@@ -13,7 +13,7 @@
     <Description>Feature rich library to parse command line arguments in C# Applications</Description>
     <Copyright>MIT</Copyright>
     <PackageProjectUrl>https://github.com/CleverCodeCravers/CSharp-CommandLineArgumentsParser</PackageProjectUrl>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
   </PropertyGroup>
 
 </Project>

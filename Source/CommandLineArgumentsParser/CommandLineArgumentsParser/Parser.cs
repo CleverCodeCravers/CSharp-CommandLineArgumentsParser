@@ -8,6 +8,9 @@ public class Parser {
         this.options = options;
     }
 
+    public ICommandLineOption[] GetCommandsList() {
+        return this.options;
+    }
     public bool TryParse(string[] args, bool allowIncompleteness)
     {
         var position = 0;
