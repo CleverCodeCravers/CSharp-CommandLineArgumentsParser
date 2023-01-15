@@ -1,5 +1,8 @@
-/Source/CSharp-CommandLineArgumentsParser/CSharp-CommandLineArgumentsParser/bin
-/Source/CSharp-CommandLineArgumentsParser/CSharp-CommandLineArgumentsParser/obj
-Source/CSharp-CommandLineArgumentsParser/.vs
+/Source/CommandLineArgumentsParser/CommandLineArgumentsParser/bin
+/Source/CommandLineArgumentsParser/CommandLineArgumentsParser/obj
+Source/CommandLineArgumentsParser/.vs
 
 
+Source/CommandLineArgumentsParser/CommandLineArgumentsParser/CommandLineArgumentsParser.csproj.user
+Source/CommandLineArgumentsParser/CommandLineArgumentsParser/Properties/PublishProfiles/FolderProfile.pubxml
+Source/CommandLineArgumentsParser/CommandLineArgumentsParser/Properties/PublishProfiles/FolderProfile.pubxml.user

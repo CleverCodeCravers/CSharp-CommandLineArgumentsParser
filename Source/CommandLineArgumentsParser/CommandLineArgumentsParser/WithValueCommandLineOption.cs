@@ -1,4 +1,4 @@
-﻿namespace CSharp_CommandLineArgumentsParser;
+﻿namespace CommandLineArgumentsParser;
 
 public abstract class WithValueCommandLineOption<T> : IWithValueCommandLineOption<T>
 {
