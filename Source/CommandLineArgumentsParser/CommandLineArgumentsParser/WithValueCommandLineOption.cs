@@ -8,13 +8,15 @@ public abstract class WithValueCommandLineOption<T> : IWithValueCommandLineOptio
 
     private T? _value;
     private bool _hasValue = false;
-
+    public string Description { get; }
     public WithValueCommandLineOption(
         string name,
+        string description,
         T? defaultValue)
     {
         Name = name;
         _value = defaultValue;
+        Description = description;
     }
 
     public T? GetValue()
